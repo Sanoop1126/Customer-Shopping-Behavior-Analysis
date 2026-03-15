@@ -105,7 +105,7 @@ The dashboard includes visualizations such as:
 * Shipping Type Comparison
 * Subscription Status Analysis
 
-![Customer Analysis Dashboard](images/dashboard_preview.png)
+![Customer Analysis Dashboard](images/customer behaviour analysis.png)
 
 ---
 
